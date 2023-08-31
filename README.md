@@ -201,7 +201,11 @@ sudo systemctl disable --now fr24feed
 
 </details>
 
-## 9. Miscellaneous fixes and workarounds
+<details>
+ <summary>
+<h2>## 9. Miscellaneous fixes and workarounds</h2>
+ </summary>
+<details>
 
 ### 9.1 Potential workaround for losing network connectivity due to dhcpcd / Wi-Fi:
 - [[Raspbian dropping off the network potential workaround]]
@@ -224,3 +228,4 @@ net.ipv6.conf.all.disable_ipv6 = 1
 EOF
 sudo reboot
 ```
+</details>
