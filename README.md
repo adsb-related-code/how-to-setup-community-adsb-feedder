@@ -203,7 +203,7 @@ sudo systemctl disable --now fr24feed
 
 <details>
  <summary>
-<h2>## 9. Miscellaneous fixes and workarounds</h2>
+<h2>9. Miscellaneous fixes and workarounds</h2>
  </summary>
 <details>
 
