@@ -103,7 +103,10 @@ https://github.com/adsbfi/adsb-wiki/wiki/Dual-1090-978-setup
 https://github.com/adsbfi/graphs1090#graphs1090
 
 
-## 8. Other feed clients (optional)
+<details>
+ <summary>
+ ## 8. Other feed clients (optional)
+</summary>
 
 Specify a network Beast receiver IP 127.0.0.1 port 30005 (beast protocol).
 Do not select DVB-T / USB / SDR input. It will interfere with the readsb decoder you already installed.
@@ -196,6 +199,7 @@ sudo journalctl -u fr24feed --no-pager
 sudo systemctl disable --now fr24feed
 ```
 
+</details>
 
 ## 9. Miscellaneous fixes and workarounds
 
