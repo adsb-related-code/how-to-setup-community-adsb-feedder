@@ -105,7 +105,7 @@ https://github.com/adsbfi/graphs1090#graphs1090
 
 <details>
  <summary>
- ## 8. Other feed clients (optional)
+[###8. Other feed clients (optional)](#)
 </summary>
 
 Specify a network Beast receiver IP 127.0.0.1 port 30005 (beast protocol).
