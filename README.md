@@ -1,4 +1,4 @@
-**Most of this guide also works on other Debian / Ubuntu systems:**
+## Most of this guide also works on other Debian / Ubuntu systems:
 - Most feeds will work on any architecture 
 - FA / FR24 feed will only run on a Raspberry Pi (there are workarounds, but this guide does not cover that)
 - If you're not using Raspberry Pi OS but have installed Debian / Ubuntu, start with point 2 to install the decoder
